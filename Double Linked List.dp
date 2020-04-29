@@ -1,0 +1,15 @@
+[Project]
+FileName=C:\Dev-Pas\ngoding\Double Linked List.dp
+Name=Project Double Linked List
+MainUnit=C:\Dev-Pas\ngoding\DoubleLinkedList,pas.pas
+UnitCount=1
+ResFiles=C:\Dev-Pas\ngoding\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icons\Edit.ico
+CompilerOptions=
+IncludeDirs=
+ObjFile=
+[Unit1]
+FileName=C:\Dev-Pas\ngoding\DoubleLinkedList,pas.pas
+FileTime=1352504844
